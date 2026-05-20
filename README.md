@@ -12,11 +12,11 @@ Designed and stimulated a CMOS NAND logic gate using LTspice.
   
 
 ## Circuit Schematic
-![Circuit](CMOS_NAND_circuit.png)
+![Circuit](cmos_nand_circuit.png)
 
 
 ## Circuit Waveform
-![Waveform](CMOS_NAND_waveform.png)
+![Waveform](cmos_nand_waveform.png)
 
 
 ## Results
