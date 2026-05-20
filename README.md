@@ -9,10 +9,10 @@ Designed and stimulated a CMOS NAND logic gate using LTspice.
 - CMOS Logic
 - PMOS and NMOS operation
 - NAND gate functionality
-- 
+  
 
 ## Circuit Schematic
-![Circuit](cmos_nand_circuit.png)
+![Circuit](CMOS_NAND_circuit.png)
 
 
 ## Circuit Waveform
